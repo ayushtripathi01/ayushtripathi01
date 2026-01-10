@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I’m currently working on: <br>->Writing technical and analytical reports at WikiClub Tech<br>->Publishing an AI-based research paper<br>->Exploring advanced applications of AI in real-world problem solving<br><br>I’m looking to collaborate on<br>->Open-source projects related to AI, data analysis, and automation<br>->Research-driven and impact-oriented tech initiatives<br><br>I’m looking for help with<br>->Improving research publication quality<br>->Advanced AI tools, model optimization, and deployment best practices<br><br>I’m currently learning<br>->Emerging AI tools and technologies<br>->Research methodologies and scalable data analysis techniques<br><br>Ask me about<br>->Data analysis projects and insights<br>->Technical report writing<br>->AI workflows, tools, and research fundamentals<br><br>Fun fact<br>->I may be a slow learner, but I’m highly precise and consistent, focused on delivering accurate and high-quality results every time.
 
 
